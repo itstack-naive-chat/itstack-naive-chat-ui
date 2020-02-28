@@ -1,6 +1,6 @@
 # 《Netty+JavaFx实战：仿桌面版微信聊天》| UI工程
 
-- [专栏课程](https://chat.itstack.org/)
+- [《Netty+JavaFx实战：仿桌面版微信聊天》](https://chat.itstack.org)
 
 ## 一、简述
 

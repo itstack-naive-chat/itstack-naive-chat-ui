@@ -2,6 +2,22 @@
 
 - [《Netty+JavaFx实战：仿桌面版微信聊天》学习专栏](https://chat.itstack.org)
 
+[![stars](https://badgen.net/github/stars/itstack-naive-chat/itstack-naive-chat-ui?icon=github&color=4ab8a1)](https://github.com/itstack-naive-chat/itstack-naive-chat-ui) [![forks](https://badgen.net/github/forks/itstack-naive-chat/itstack-naive-chat-ui?icon=github&color=4ab8a1)](https://github.com/itstack-naive-chat/itstack-naive-chat-ui) [<img src="https://itstack.org/_media/onlinebook.svg">](http://chat.itstack.org) [<img src="https://itstack.org/_media/wxbugstack.svg">](https://itstack.org/_media/qrcode.png?x-oss-process=style/may)
+
+> 本项目是作者小傅哥使用技术栈```JavaFx```、```Netty4.x```、```SpringBoot```、```Mysql```等，搭建的仿桌面版微信聊天工程实现通信核心功能。如果本项目能为您提供帮助，请给予支持(关注、点赞、分享)！
+
+> **作者：** 小傅哥，Java Developer，[:trophy: CSDN 博客专家](https://bugstack.blog.csdn.net)，[:bug: 虫洞 · 科技栈](https://bugstack.cn)
+
+**学习链接：**
+
+- [《Netty+JavaFx实战：仿桌面版微信聊天》](https://chat.itstack.org)
+ 
+**赏个鸡腿🍗**
+
+![](https://bugstack.cn/assets/images/tip.jpg)
+
+----
+
 ## 一、简述
 
 此工程是使用JavaFx开发的UI端，在我们的UI端中提供了；登录框体、聊天框体，同时在聊天框体中有大量的行为交互界面以及接口和事件。最终我的UI端使用Maven打包的方式向外提供Jar包，以此来达到UI界面与业务行为流程分离。并且用户可以很方便的在我们的框架结构下进行扩展。
